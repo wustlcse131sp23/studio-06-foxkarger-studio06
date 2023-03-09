@@ -24,7 +24,10 @@ public class IterativeMethods {
 	 * @param p first operand
 	 * @param q second operand
 	 * @return greatest common divisor of p and q
-	 */
+	 *//**
+	
+	  *///*
+	
 	public static int gcd(int p, int q) {
 		while (q != 0) {
 			int temp = q;
